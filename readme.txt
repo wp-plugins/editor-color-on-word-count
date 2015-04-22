@@ -3,7 +3,7 @@ Contributors: internet techies, wpoptimus
 Tags: word count,editor color,seo
 Donate link: http://www.clickonf5.org/go/donate-wp-plugins/ 
 Requires at least: 3.5
-Tested up to: 3.9.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
