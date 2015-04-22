@@ -3,7 +3,7 @@ Contributors: internet techies, wpoptimus
 Tags: word count,editor color,seo
 Donate link: http://www.clickonf5.org/go/donate-wp-plugins/ 
 Requires at least: 3.5
-Tested up to: 3.9.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -34,10 +34,10 @@ There's 3 ways to install this plugin:
 
 = 1. The super easy way =
 1. In your Admin, go to menu Plugins > Add
-1. Search for Dbox Slider Lite
+1. Search for Editor Color on Word Count
 1. Click to install
 1. Activate the plugin
-1. A new menu `Dbox Slider Lite` will appear in your Admin
+1. A new menu `Editor Color` will appear in your Admin
 
 = 2. The easy way =
 1. Download the plugin (.zip file) on the right column of this page
